@@ -1,19 +1,32 @@
 # documentação do modulo1
 design patter e padores usados 
+
 modelo mvc 
+
 singleton ( de forma não tão implicita) 
+
 Dependency Injection
+
  RESTful
+
  Command
+
  Data Transfer Object (DTO)
+
  Builder
+
  Observer
+
  Iterator
 
 melhoreias futuras 
+
 implementar  Factory Method
+
 implementar Strategy
+
 implementar factory 
+
 implementar Decorator
 
 por que usar 
